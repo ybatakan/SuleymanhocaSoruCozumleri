@@ -20,6 +20,8 @@ public class forloop1 {
                 System.out.println(c);
 
                 System.out.println("deneme");
+                System.out.println("deneme");
+
             }
         }
     }
