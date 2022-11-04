@@ -18,6 +18,8 @@ public class forloop1 {
 
             if (s.indexOf(c) != s.lastIndexOf(c)) {
                 System.out.println(c);
+
+                System.out.println("deneme");
             }
         }
     }
